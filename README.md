@@ -1,6 +1,6 @@
 ## Styled client folder for Foundation for Apps
 
-This client folder is part of a school project and if you switch this client folder with the defult client folder created during installation of Foundation for Apps. You get a single page web application based on Foundation for Apps, powered by Gulp, Angular, and libsass. It has Dynamic Routing built with Templates and Views. 
+This client folder is part of a school project. You can switch this client folder with the defult client folder created during installation of Foundation for Apps and you get a single page web application based on Foundation for Apps, powered by Gulp, Angular, and libsass. It has Dynamic Routing built with Templates and Views. Pls notice still work in progress!
 
 ### Get Started
 
