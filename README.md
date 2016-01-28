@@ -10,10 +10,7 @@ Install Foundation for Apps and change the client folder to this client folder
 
 ### How to install Foundation for Apps
 
-```bash
 1. Before you can install Foundation for Apps you need Git, Node, Ruby, bower, SASS installed globally on your computer
-```
 
-```bash
 1. Before you can install Foundation for Apps you need Git, Node, Ruby, bower, SASS installed globally on your computer
-```
+
