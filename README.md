@@ -1,4 +1,4 @@
-## Styled client-folder for Foundation for Apps
+## Styled client folder for Foundation for Apps
 
 This client folder is part of a school project and creates a single page web application.created with Foundation for Apps, powered by Gulp, Angular, and libsass. It has Dynamic Routing built with Templates and Views. 
 
