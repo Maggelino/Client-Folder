@@ -28,8 +28,7 @@ Install Foundation for Apps and change the client folder to this client folder
 
 9. gulp (this builds everything and sets up a localhost server for example http://localhost: 8080, window opens up in browser window automatically)
 
-or use...
-9. foundation watch
+or use...foundation watch
 (this also builds everything and sets up a localhost server)
 
 Pls notice everytime you build a new folder you need to stop ctrl+c and start again and write foundation watch
