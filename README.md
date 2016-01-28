@@ -37,8 +37,11 @@ Optional browser sync automatically updates when edited
 
 Resources:
 http://foundation.zurb.com/apps/getting-started.html
+
 http://foundation.zurb.com/apps/docs/#!/installation
+
 https://www.youtube.com/watch?v=P0YFTQ_oXT0
+
 http://cmder.net/
 
 
