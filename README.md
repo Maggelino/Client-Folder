@@ -36,6 +36,7 @@ Pls notice everytime you build a new folder you need to stop ctrl+c and start ag
 Optional browser sync automatically updates when edited
 
 Resources:
+
 http://foundation.zurb.com/apps/getting-started.html
 
 http://foundation.zurb.com/apps/docs/#!/installation
