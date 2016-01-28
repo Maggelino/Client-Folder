@@ -5,7 +5,6 @@ This client folder is part of a school project and if you switch this client fol
 ### Get Started
 
 Clone this GitHub Repository with client folder or download Zip 
-https://github.com/Maggelino/client-folder
 
 Install Foundation for Apps and change the client folder to this client folder
 
